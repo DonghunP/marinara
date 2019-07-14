@@ -1,5 +1,4 @@
-TODO
-
+[TODO]
 - [ ] Sync with google calander. ex) How many 'Promo' I did today.
 - [ ] When I plan a task, I'll set how much 'Promo' I need.(Expectation)
 - [ ] When I click and mark as done, I'll write how much 'Promo' I use.(Really number I used)
