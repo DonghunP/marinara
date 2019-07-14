@@ -1,8 +1,8 @@
 TODO
 
-[] 구글 캘린더와 연관되어 Task 설정시 몇 Promo 인지 정할 수 있게 하기
-[] Rescue Timer 처럼 Google Calender에 하루 몇 Promo를 수행했는지 표시되게 하기.
-
+- [ ] Sync with google calander. ex) How many 'Promo' I did today.
+- [ ] When I plan a task, I'll set how much 'Promo' I need.(Expectation)
+- [ ] When I click and mark as done, I'll write how much 'Promo' I use.(Really number I used)
 
 ---
 # Marinara: Pomodoro® Assistant
