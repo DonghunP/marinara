@@ -5,8 +5,9 @@
 - [ ] Make .gif demo video.
 
 
-[Refer]
-https://thoughtbot.com/blog/how-to-make-a-chrome-extension
+[Reference]  
+https://thoughtbot.com/blog/how-to-make-a-chrome-extension  
+
 ---
 # Marinara: Pomodoro® Assistant
 
