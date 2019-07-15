@@ -4,6 +4,9 @@
 - [ ] When I click and mark as done, I'll write how much 'Promo' I use.(Really number I used)
 - [ ] Make .gif demo video.
 
+
+[Refer]
+https://thoughtbot.com/blog/how-to-make-a-chrome-extension
 ---
 # Marinara: Pomodoro® Assistant
 
